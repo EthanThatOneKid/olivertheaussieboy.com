@@ -1,3 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap");
+
+* {
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+}
+
 html {
   margin: 0;
   padding: 0;
@@ -24,12 +31,12 @@ header > a {
   position: absolute;
   top: 1em;
   right: 1em;
-  box-shadow: 0px 0px 0px white;
+  box-shadow: 0px 0px 0px #8fd3f4;
   border-radius: 50%;
 }
 
 header > a:hover {
-  box-shadow: 0px 0px 20px white;
+  box-shadow: 0px 0px 20px #0ba6f3;
   transition: box-shadow 0.25s ease-in;
 }
 
@@ -57,6 +64,7 @@ section > h1 {
 }
 
 section > h1 > em {
+  font-style: normal;
   background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
@@ -72,6 +80,11 @@ section > h1 > em:hover {
 section > h1 > em > a {
   color: black;
   text-decoration: none;
+  font-weight: 700;
+}
+
+section > h1 > em > a > .at_symbol {
+  color: rgb(247, 55, 21);
 }
 
 .magical_underline {
