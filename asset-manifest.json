@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/olivertheaussieboy.com/static/css/main.fa1cce64.chunk.css",
-    "main.js": "/olivertheaussieboy.com/static/js/main.838da08b.chunk.js",
-    "main.js.map": "/olivertheaussieboy.com/static/js/main.838da08b.chunk.js.map",
-    "runtime-main.js": "/olivertheaussieboy.com/static/js/runtime-main.def27870.js",
-    "runtime-main.js.map": "/olivertheaussieboy.com/static/js/runtime-main.def27870.js.map",
-    "static/js/2.4c7db672.chunk.js": "/olivertheaussieboy.com/static/js/2.4c7db672.chunk.js",
-    "static/js/2.4c7db672.chunk.js.map": "/olivertheaussieboy.com/static/js/2.4c7db672.chunk.js.map",
-    "static/js/3.7876b553.chunk.js": "/olivertheaussieboy.com/static/js/3.7876b553.chunk.js",
-    "static/js/3.7876b553.chunk.js.map": "/olivertheaussieboy.com/static/js/3.7876b553.chunk.js.map",
-    "index.html": "/olivertheaussieboy.com/index.html",
-    "static/css/main.fa1cce64.chunk.css.map": "/olivertheaussieboy.com/static/css/main.fa1cce64.chunk.css.map",
-    "static/js/2.4c7db672.chunk.js.LICENSE.txt": "/olivertheaussieboy.com/static/js/2.4c7db672.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/olivertheaussieboy.com/static/media/bg.978056dc.jpg",
-    "static/media/instagram_icon.4d8ecfd8.svg": "/olivertheaussieboy.com/static/media/instagram_icon.4d8ecfd8.svg"
+    "main.css": "/static/css/main.4243a508.chunk.css",
+    "main.js": "/static/js/main.838da08b.chunk.js",
+    "main.js.map": "/static/js/main.838da08b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e790594a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e790594a.js.map",
+    "static/js/2.4c7db672.chunk.js": "/static/js/2.4c7db672.chunk.js",
+    "static/js/2.4c7db672.chunk.js.map": "/static/js/2.4c7db672.chunk.js.map",
+    "static/js/3.7876b553.chunk.js": "/static/js/3.7876b553.chunk.js",
+    "static/js/3.7876b553.chunk.js.map": "/static/js/3.7876b553.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4243a508.chunk.css.map": "/static/css/main.4243a508.chunk.css.map",
+    "static/js/2.4c7db672.chunk.js.LICENSE.txt": "/static/js/2.4c7db672.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bg.978056dc.jpg",
+    "static/media/instagram_icon.4d8ecfd8.svg": "/static/media/instagram_icon.4d8ecfd8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.def27870.js",
+    "static/js/runtime-main.e790594a.js",
     "static/js/2.4c7db672.chunk.js",
-    "static/css/main.fa1cce64.chunk.css",
+    "static/css/main.4243a508.chunk.css",
     "static/js/main.838da08b.chunk.js"
   ]
 }
