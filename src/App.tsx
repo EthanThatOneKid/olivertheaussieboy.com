@@ -1,21 +1,27 @@
 import React from "react";
-import { useInstagram } from "./hooks/useInstagram";
+import { INSTA_HANDLE } from "./shared/constants";
+import profilePicture from "./images/profile_picture.jpg";
+import instagramIcon from "./images/instagram_icon.svg";
+import "./App.css";
 
 function App() {
-  const { profilePictureUrl, bio } = useInstagram();
-  console.log({ profilePictureUrl });
-
   return (
     <main>
       <header>
-        <h1>Welcome to olivertheaussieboy.com</h1>
+        <a href={INSTA_HANDLE}>
+          <img src={instagramIcon} alt="Instagram icon." />
+        </a>
       </header>
       <section>
-        <img
-          src={profilePictureUrl}
-          alt="Oliver's Instagram profile picture."
-        />
-        <p>{bio}</p>
+        <h1>
+          Adventure with Ellie &<br />
+          <em>
+            <a href={INSTA_HANDLE}>
+              <span className="at_symbol">@</span>olivertheaussieboy
+            </a>
+          </em>
+        </h1>
+        {/* <img src={profilePicture} alt="Oliver's Instagram profile picture." /> */}
       </section>
     </main>
   );

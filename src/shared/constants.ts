@@ -1,6 +1,6 @@
 import { InstagramProfileTargets, InstagramProfileData } from "./types";
 
-export const INSTA_HANDLE = "olivertheaussieboy";
+export const INSTA_HANDLE = "https://www.instagram.com/olivertheaussieboy/";
 export const DEFAULT_PROFILE_DATA: InstagramProfileData = {
   profilePictureUrl: "",
   bio: "",
