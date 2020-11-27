@@ -13,7 +13,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  animation: 1s ease-in slide_in;
+  animation: 1s ease-in-out slide_in;
 }
 
 main {
