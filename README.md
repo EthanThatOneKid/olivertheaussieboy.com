@@ -2,9 +2,6 @@
 
 > The official site of [@olivertheaussieboy][insta_handle].
 
-- Todo
-  - [ ] Create GitHub Pages Deployment GitHub action on push.
-
 ---
 
 Created with 🤗 by EthanThatOneKid
